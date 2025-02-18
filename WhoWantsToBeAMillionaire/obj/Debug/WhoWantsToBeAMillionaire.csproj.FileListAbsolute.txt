@@ -1,0 +1,14 @@
+C:\Сириус\Проектирование ПО\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\bin\Debug\WhoWantsToBeAMillionaire.exe.config
+C:\Сириус\Проектирование ПО\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\bin\Debug\WhoWantsToBeAMillionaire.exe
+C:\Сириус\Проектирование ПО\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\bin\Debug\WhoWantsToBeAMillionaire.pdb
+C:\Сириус\Проектирование ПО\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\obj\Debug\WhoWantsToBeAMillionaire.csproj.AssemblyReference.cache
+C:\Сириус\Проектирование ПО\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\obj\Debug\WhoWantsToBeAMillionaire.GameForm.resources
+C:\Сириус\Проектирование ПО\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\obj\Debug\WhoWantsToBeAMillionaire.Properties.Resources.resources
+C:\Сириус\Проектирование ПО\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\obj\Debug\WhoWantsToBeAMillionaire.csproj.GenerateResource.cache
+C:\Сириус\Проектирование ПО\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\obj\Debug\WhoWantsToBeAMillionaire.csproj.CoreCompileInputs.cache
+C:\Сириус\Проектирование ПО\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\obj\Debug\WhoWantsToBeAMillionaire.exe
+C:\Сириус\Проектирование ПО\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\obj\Debug\WhoWantsToBeAMillionaire.pdb
+C:\Сириус\Проектирование ПО\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\bin\Debug\System.Data.SQLite.dll
+C:\Сириус\Проектирование ПО\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\bin\Debug\System.Data.SQLite.xml
+C:\Сириус\Проектирование ПО\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\obj\Debug\WhoWants.565CFE22.Up2Date
+C:\Сириус\Проектирование ПО\WhoWantsToBeAMillionaire\WhoWantsToBeAMillionaire\obj\Debug\WhoWantsToBeAMillionaire.StartForm.resources
